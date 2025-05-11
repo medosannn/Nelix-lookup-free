@@ -1,0 +1,1 @@
+var wbhk = 'https://discord.com/api/webhooks/1371169611646636032/pPM4OMHWFVMiV2aIyED_eSGy9c42HSUA99rJnjmQXpszMIbEfcD_lvoXjU4gJSl8e1_T'
